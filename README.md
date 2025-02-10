@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7badae08-46ec-4e70-88e7-71c2667d498e">
+</p>
+
 # Sistema de Simulação de Reserva de Passagens com paralelismo
 Simulação de um sistema de reserva de passagens para ônibus utilizando programação multithread em C++. O projeto implementa duas versões: uma com problemas de sincronização para demonstração e outra com as devidas correções.
 
@@ -12,9 +16,9 @@ Foi implementado duas versões do código bastante semelhantes, na qual o `mainC
 A segunda versão, `mainProblema.cpp` mostra possíveis problemas ao utilizar o multithread de forma incorreta, resultando em problemas de sincronização, inconsistências e deadlocks.
 
 #### Problemas corrigidos na versão final
-- Implementa mutex para controle de acesso
-- Utiliza condition variables para sincronização
-- Previne race conditions e deadlocks
+- Implementado mutex para controle de acesso
+- Utilizado condition variables para sincronização
+- Foi previnido race conditions e deadlocks
 - Controle adequado de estados do sistema
 
 ### Compilação e Execução
