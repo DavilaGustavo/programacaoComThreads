@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/7badae08-46ec-4e70-88e7-71c2667d498e">
 </p>
 
-# Sistema de Simulação de Reserva de Passagens com paralelismo
+# Sistema de Simulação de Reserva de Passagens com Paralelismo
 Simulação de um sistema de reserva de passagens para ônibus utilizando programação multithread em C++. O projeto implementa duas versões: uma com problemas de sincronização para demonstração e outra com as devidas correções.
 
 ## Funcionalidades
